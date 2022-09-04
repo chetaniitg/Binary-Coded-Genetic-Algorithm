@@ -1,1 +1,0 @@
-# Binary-Coded-Genetic-Algorithm
